@@ -11,7 +11,7 @@ This collection showcases various projects I have worked on, covering data clean
 **Skills Used:** Data Cleaning (Python), EDA, Tableau Dashboard  
 **Description:** Analyzed restaurant data to uncover insights into city-wise distribution, booking trends, cuisine popularity, franchise reach, and ratings.  
 **Dashboard Highlights:** KPI metrics, restaurant distribution, booking/delivery trends, ratings vs votes, cuisine & franchise popularity.  
-[🔗 View Project Folder](./Marketing-Restaurant-Data-Analysis)
+[🔗 View Project Folder](harshkhatri24/Marketing-Restaurant-Data-Analysis)
 
 ---
 
