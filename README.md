@@ -19,7 +19,7 @@ This collection showcases various projects I have worked on, covering data clean
 **Skills Used:** Excel, Power BI, Data Cleaning, Dashboarding  
 **Description:** Analyzed sales transactions to identify top-selling products, seasonal trends, and customer purchase behavior.  
 **Dashboard Highlights:** Sales by region, category, and product; monthly trends; top customers; profit margins.  
-[🔗 View Project Folder]([https://github.com/harshkhatri24/Retail-Analytics))
+[🔗 View Project Folder](https://github.com/harshkhatri24/Retail-Analytics)
 
 ---
 
