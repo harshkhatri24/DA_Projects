@@ -27,7 +27,7 @@ This collection showcases various projects I have worked on, covering data clean
 **Skills Used:** Python (Pandas, Matplotlib, Seaborn), Data Visualization, EDA  
 **Description:** Investigated app ratings and factors influencing them, such as category, size, installs, and price.  
 **Dashboard Highlights:** Ratings distribution, installs vs ratings, paid vs free app performance, category popularity.  
-[🔗 View Project Folder](./Google_Playstore_App_Rating_Analysis)
+[🔗 View Project Folder](https://github.com/harshkhatri24/App-Rating-Analysis)
 
 ---
 
